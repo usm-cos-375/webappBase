@@ -7,6 +7,6 @@
 <title>Starting Wed Application for COS375</title>
 </head>
 <body>
-Hello from JSP
+<jsp:forward page="/hello" />
 </body>
 </html>
