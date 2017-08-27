@@ -30,6 +30,7 @@ public class HelloServlet extends HttpServlet {
 		// TODO Auto-generated method stub
 		response.getWriter().append("Hello COS 375 ! <br /> ");
 		response.getWriter().append("Application name : ").append(request.getContextPath());
+		
 	}
 
 	/**
